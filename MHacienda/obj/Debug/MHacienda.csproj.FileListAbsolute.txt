@@ -1,0 +1,96 @@
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\csc.exe
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\vbc.exe
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\VBCSCompiler.exe
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\MHacienda.dll.config
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\MHacienda.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\MHacienda.pdb
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\obj\Debug\MHacienda.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\obj\Debug\MHacienda.pdb
+G:\MHacienda\MHacienda\bin\roslyn\csc.exe
+G:\MHacienda\MHacienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\MHacienda\MHacienda\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\MHacienda\MHacienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\MHacienda\MHacienda\bin\roslyn\System.Collections.Immutable.dll
+G:\MHacienda\MHacienda\bin\roslyn\System.Reflection.Metadata.dll
+G:\MHacienda\MHacienda\bin\roslyn\vbc.exe
+G:\MHacienda\MHacienda\bin\roslyn\VBCSCompiler.exe
+G:\MHacienda\MHacienda\bin\roslyn\VBCSCompiler.exe.config
+G:\MHacienda\MHacienda\bin\MHacienda.dll.config
+G:\MHacienda\MHacienda\bin\MHacienda.dll
+G:\MHacienda\MHacienda\bin\MHacienda.pdb
+G:\MHacienda\MHacienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\MHacienda\MHacienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\MHacienda\MHacienda\obj\Debug\MHacienda.csprojResolveAssemblyReference.cache
+G:\MHacienda\MHacienda\obj\Debug\MHacienda.dll
+G:\MHacienda\MHacienda\obj\Debug\MHacienda.pdb
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\csc.exe
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\vbc.exe
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\VBCSCompiler.exe
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\MHacienda.dll.config
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\MHacienda.dll
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\MHacienda.pdb
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\keven\Desktop\MHacienda\MHacienda\obj\Debug\MHacienda.csprojResolveAssemblyReference.cache
+C:\Users\keven\Desktop\MHacienda\MHacienda\obj\Debug\MHacienda.dll
+C:\Users\keven\Desktop\MHacienda\MHacienda\obj\Debug\MHacienda.pdb
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\csc.exe
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\vbc.exe
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\VBCSCompiler.exe
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\MHacienda.dll.config
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\MHacienda.dll
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\MHacienda.pdb
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diego\Desktop\MHacienda\MHacienda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diego\Desktop\MHacienda\MHacienda\obj\Debug\MHacienda.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\MHacienda\MHacienda\obj\Debug\MHacienda.dll
+C:\Users\diego\Desktop\MHacienda\MHacienda\obj\Debug\MHacienda.pdb
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\roslyn\desktop.ini
+C:\Users\keven\Desktop\MHacienda\MHacienda\bin\roslyn\desktop.ini
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\obj\Debug\MHacienda.csprojResolveAssemblyReference.cache
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\obj\Debug\RdlCompile.cache
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\obj\Debug\RdlCompile.compiled
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\Microsoft.SqlServer.Types.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\diego\Google Drive\Cosas de la U\POO\ProyectoCátedra\MHacienda\MHacienda\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
